@@ -14,8 +14,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-![](https://komarev.com/ghpvc/?username=Tiwari1782&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
-<a href="https://prakash-portfolio-nu.vercel.app/" target="_blank">
+![](https://komarev.com/ghpvc/?username=noorieek2007-bit&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
+
   <img src="https://img.shields.io/badge/%20Live%20Demo-Visit%20Portfolio-00d4ff?style=for-the-badge&labelColor=1a1a2e" alt="Live Demo" />
 </a>
 
@@ -24,11 +24,11 @@
 ## 👨‍🎓 About Me
 
 - 🎓 **BTech CSE Student** at **CGC UNIVERSITY MOHALI** (2024-28)
-- 📊 **CGPA: 9.00** (till 2nd semester)
+- 📊 **CGPA: 7.5** (till 2nd semester)
 - 🏫 **Academic Background:**
-  - **CBSE (2022-23):** Army Public School Nehru Road, Lucknow
-  - **CBSE (2020-21):** Army Public School Nehru Road, Lucknow
-- 📧 **Email:** prakashtiwarie06@gmail.com
+  - **CBSE (2023-24):** D.C.M Senior Secondary School, Ferozpur
+  - **CBSE (2021-22):** D.C.M Senior Secondary School, Ferozpur 
+- 📧 **Email:** noor.frz.2007@gmail.com
 - 💡 **Passion:** Web Development | AI/ML | Problem Solving
 - 🌱 **Currently Learning:** Advanced DSA, Full-Stack Development, Machine Learning
 
@@ -40,8 +40,8 @@
 
 | 🎯 Achievement | 🥇 Position/Recognition | 📅 Year |
 |:--------------|:------------------------|:--------|
-| **GenAI Hackathon 2025** | 🏅 Top 8 Finalist | 2025 |
-| **HackChrono 2025** | 🏅 Top 10 Finalist | 2025 |
+| **Hack-N-Win 2026** | 🏅 Top 14 Finalist | 2026 |
+
 
 </div>
 
@@ -53,7 +53,7 @@
 
 | 🎯 Role | 🏢 Organization | 📅 Duration |
 |:--------|:---------------|:-----------|
-| **Bug2Build Tech Lead** | CGC UNIVERSITY MOHALI | 2025 |
+| **Bug2Build Assistant Secretary** | CGC UNIVERSITY MOHALI | 2025 |
 
 </div>
 
@@ -61,85 +61,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏡 **WanderLust** - Full-Stack Airbnb Clone
 
-<div align="center">
-
-<a href="https://wanderlust-menk.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20WanderLust-FF5A5F?style=for-the-badge&labelColor=484848" alt="Live Demo" />
-</a>
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tiwari1782/WanderLust)
-[![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-
-</div>
-
-#### 📝 Project Description
-**WanderLust** is a full-featured property rental platform inspired by Airbnb, built with the MERN stack. It demonstrates advanced web development concepts including authentication, authorization, image uploads, and interactive maps.
-
-#### 🛠️ Tech Stack
-
-**Frontend:**
-- EJS, EJS-Mate
-- Bootstrap 5
-- HTML5, CSS3, JavaScript
-- Starability (Star Ratings)
-
-**Backend:**
-- Node.js, Express.js
-- MongoDB, Mongoose
-- Passport.js (Authentication)
-- Cloudinary (Image Hosting)
-- Mapbox (Maps & Geocoding)
-
-**Validation & Security:**
-- Joi (Server-side validation)
-- bcrypt (Password hashing)
-- express-session (Session management)
-- connect-flash (Flash messages)
-
-#### ✨ Key Features
-
-<table>
-<tr>
-<td width="50%">
-
-**Core Functionality:**
-- 🏡 Full CRUD for property listings
-- 🔐 User authentication & authorization
-- 🖼️ Image upload with Cloudinary
-- 🗺️ Interactive maps with Mapbox
-- 📍 Geocoding for address conversion
-
-</td>
-<td width="50%">
-
-**Advanced Features:**
-- ⭐ Star-based review system (1-5)
-- ✅ Client & server-side validation
-- 🎨 Responsive UI with Bootstrap 5
-- 🔁 Method override for RESTful routes
-- ♻️ Cascade delete for related data
-- 🕒 Automatic timestamps
-
-</td>
-</tr>
-</table>
-
-#### 🏗️ Architecture
-- **MVC Pattern** - Clean separation of concerns
-- **Express Router** - Organized routing structure
-- **Middleware** - Authentication, authorization, validation
-- **RESTful API** - Standard HTTP methods
-
-#### 🌟 Project Highlights
-- 📦 **Deployed on Render** - Live production environment
-- 🔒 **Secure Authentication** - bcrypt hashing with salting
-- 🎯 **Owner-based Authorization** - Edit/delete permissions
-- 🗄️ **MongoDB Atlas** - Cloud database integration
-- 📱 **Responsive Design** - Mobile-friendly interface
 ---
 
 ### 🛡️ **AI Fraud Detection Dashboard** - Real-Time Transaction Monitoring System
@@ -288,7 +210,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-tiwari-8900bb2b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harnoor-kaur-40a0b6392/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heree_prakash_/?__pwa=1)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiwari1782)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakashtiwarie06@gmail.com)
@@ -299,7 +221,7 @@
   <a href="https://www.instagram.com/heree_prakash_/?__pwa=1">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>
-  <a href="https://www.linkedin.com/in/prakash-tiwari-8900bb2b2/">
+  <a href="https://www.linkedin.com/in/harnoor-kaur-40a0b6392/">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
 </div>
