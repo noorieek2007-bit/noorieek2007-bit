@@ -231,13 +231,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiwari1782&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Tiwari1782&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noorieek2007-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=noorieek2007-bit&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiwari1782&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiwari1782&theme=tokyo-night&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorieek2007-bit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noorieek2007-bit&theme=tokyo-night&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -245,7 +245,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tiwari1782&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=noorieek2007-bit&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
@@ -253,8 +253,8 @@
 ## 🧠 LeetCode Statistics
 
 <div align="center">
-  <a href="https://leetcode.com/pRaKaSh1782">
-    <img src="https://leetcard.jacoblin.cool/pRaKaSh1782?theme=dark&font=Noto%20Sans" alt="Prakash's LeetCode Stats">
+  <a href="https://leetcode.com/u/Noor2007/">
+    <img src="https://leetcard.jacoblin.cool/Noor2007?theme=dark&font=Noto%20Sans" alt="Harnoor's LeetCode Stats">
   </a>
 </div>
 
@@ -263,7 +263,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiwari1782&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noorieek2007-bit&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
