@@ -294,7 +294,7 @@
  
   ### Thanks for visiting my profile! Have a great day! 🌟
  
-  ![](https://komarev.com/ghpvc/?username=Tiwari1782&color=blueviolet&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=noorieek2007-bit&color=blueviolet&style=for-the-badge)
  
 </div>
 
