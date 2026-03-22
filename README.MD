@@ -218,7 +218,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.instagram.com/heree_prakash_/?__pwa=1">
+  <a href="https://www.instagram.com/itss.nooriee/?__pwa=1">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>
   <a href="https://www.linkedin.com/in/harnoor-kaur-40a0b6392/">
