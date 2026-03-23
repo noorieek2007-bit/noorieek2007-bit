@@ -63,6 +63,105 @@
 
 
 ---
+### ⚖️ **JurisBridge** - AI-Powered Legal Assistance Platform
+
+<div align="center">
+<a href="https://juris-bridge-my3w.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20JurisBridge-00d4ff?style=for-the-badge&labelColor=0D1B2A" alt="Live Demo" />
+</a>
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tiwari1782/JurisBridge)
+[![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![React](https://img.shields.io/badge/React_19-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-Real_Time-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
+</div>
+
+#### 📝 Project Description
+
+**JurisBridge** is a comprehensive full-stack legal-tech platform built on the **MERN stack** that bridges the gap between citizens and legal professionals using AI. It features a multi-provider AI legal assistant (JurisPilot), a verified lawyer marketplace, real-time chat & video consultations, AI-powered document analysis, legal notice generation, and Razorpay-integrated payments — all in one platform.
+
+#### 🛠️ Tech Stack
+
+**Frontend:**
+- React 19, Vite 7
+- Tailwind CSS v4
+- Framer Motion (animations)
+- Zustand (state management)
+- Socket.io Client, React Router v7
+- Axios
+
+**Backend:**
+- Node.js, Express.js
+- MongoDB, Mongoose ODM
+- Socket.io (real-time messaging)
+- JWT Authentication
+- Multer (file uploads), Cloudinary (cloud storage)
+- pdf-parse, mammoth (document extraction)
+
+**AI & Services:**
+- Anthropic Claude (Primary AI)
+- Google Gemini (Fallback 1)
+- OpenAI GPT (Fallback 2)
+- Razorpay (payments)
+- Twilio (SMS notifications)
+- Nodemailer (email alerts)
+- Google TTS + ElevenLabs (voice output)
+
+**Security:**
+- JWT + bcryptjs (auth & hashing)
+- SHA-256 (evidence integrity)
+- Helmet, CORS, rate limiting
+- Role-based protected routes
+- dotenv (env management)
+
+#### ✨ Key Features
+
+<table>
+<tr>
+<td width="50%">
+
+**Core Functionality:**
+- 🤖 JurisPilot AI — multi-provider legal assistant (Claude → Gemini → OpenAI fallback)
+- 👨‍⚖️ Lawyer Marketplace — browse & connect with verified lawyers by specialization, rating & fee
+- 📂 Case Management — create, track & manage legal cases with timeline & auto lawyer matching
+- 💬 Real-Time Chat — Socket.io messaging between users and lawyers with file attachments
+- 📄 AI Document Analysis — upload PDFs/DOCX and get instant AI risk analysis
+- 💳 Razorpay Payments — integrated payment gateway for consultations
+
+</td>
+<td width="50%">
+
+**Advanced Features:**
+- 📊 Confidence Scoring — AI rates its own answer confidence per response
+- 🚨 Smart Escalation — low-confidence queries auto-escalated to lawyers via email + SMS
+- 📜 Legal Notice Generator — AI-crafted legal notices with customizable parameters
+- 🎥 Video Calling — in-app video consultations between users and lawyers
+- 🗣️ Voice I/O — speech recognition & TTS in English and Hindi
+- 🌙 Dark/Light Theme — Zustand-powered toggle with system preference detection
+- 🔐 Evidence Integrity — SHA-256 hashing for tamper detection on uploaded evidence
+- 🛡️ Rate Limited — 30 AI requests per 15 min per IP
+
+</td>
+</tr>
+</table>
+
+#### 🏗️ Architecture
+
+- **MERN Stack** — React 19 (Vite) frontend + Express.js backend + MongoDB
+- **Multi-Provider AI Fallback** — Claude → Gemini → OpenAI (never fails)
+- **Real-Time Layer** — Socket.io for chat and live updates
+- **Services Layer** — AI scoring, notification dispatch, TTS synthesis
+- **Middleware** — JWT auth + role-based access (user / lawyer)
+- **RESTful API** — clean endpoints for cases, documents, lawyers, payments, notices
+
+#### 🌟 Project Highlights
+
+- 🤖 **Triple AI failover** — platform stays functional even if one or two providers go down
+- 📦 **Production-ready MERN structure** with modular controllers, routes, models & services
+- 🔐 **Security-first** — hashed passwords, JWT auth, SHA-256 evidence integrity, rate limiting
+- 🌐 **Multilingual** — English & Hindi support with voice input/output
+- 🚀 **Deployed on Vercel (frontend) + Render (backend + MongoDB Atlas)**
 
 ### 🛡️ **AI Fraud Detection Dashboard** - Real-Time Transaction Monitoring System
 
