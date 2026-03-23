@@ -24,11 +24,11 @@
 ## 👨‍🎓 About Me
 
 - 🎓 **BTech CSE Student** at **CGC UNIVERSITY MOHALI** (2024-28)
-- 📊 **CGPA: 7.5** (till 2nd semester)
+- 📊 **CGPA: 7.5** (till 3rd semester)
 - 🏫 **Academic Background:**
-  - **CBSE (2023-24):** D.C.M Senior Secondary School, Ferozpur
-  - **CBSE (2021-22):** D.C.M Senior Secondary School, Ferozpur 
-- 📧 **Email:** noor.frz.2007@gmail.com
+  - **CBSE (2023-24):** D.C.M Senior Secondary School, Ferozepur
+  - **CBSE (2021-22):** D.C.M Senior Secondary School, Ferozepur 
+- 📧 **Email:** noor.fzr.2007@gmail.com
 - 💡 **Passion:** Web Development | AI/ML | Problem Solving
 - 🌱 **Currently Learning:** Advanced DSA, Full-Stack Development, Machine Learning
 
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Dashboard-2563eb?style=for-the-badge&labelColor=1e293b" alt="Live Demo" />
 </a>
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Tiwari1782/Fraud-Detection-Dashboard)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/noorieek2007-bit/Fraud-Detection-Dashboard)
 [![Node.js](https://img.shields.io/badge/Node.js-v14+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express.js](https://img.shields.io/badge/Express.js-Backend-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
